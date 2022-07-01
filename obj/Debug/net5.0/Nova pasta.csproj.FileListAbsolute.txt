@@ -1,0 +1,16 @@
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\bin\Debug\net5.0\Nova pasta.exe
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\bin\Debug\net5.0\Nova pasta.deps.json
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\bin\Debug\net5.0\Nova pasta.runtimeconfig.json
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\bin\Debug\net5.0\Nova pasta.runtimeconfig.dev.json
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\bin\Debug\net5.0\Nova pasta.dll
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\bin\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\bin\Debug\net5.0\Nova pasta.pdb
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\obj\Debug\net5.0\Nova pasta.csproj.AssemblyReference.cache
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\obj\Debug\net5.0\Nova pasta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\obj\Debug\net5.0\Nova pasta.AssemblyInfoInputs.cache
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\obj\Debug\net5.0\Nova pasta.AssemblyInfo.cs
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\obj\Debug\net5.0\Nova pasta.csproj.CoreCompileInputs.cache
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\obj\Debug\net5.0\Nova pasta.dll
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\obj\Debug\net5.0\ref\Nova pasta.dll
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\obj\Debug\net5.0\Nova pasta.pdb
+C:\Users\mcazemun\OneDrive - Globo Comunicação e Participações sa\Área de Trabalho\Nova pasta\obj\Debug\net5.0\Nova pasta.genruntimeconfig.cache
